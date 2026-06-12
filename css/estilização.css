@@ -22,10 +22,6 @@
     border-color: var(--table-border-color);
   }
   
-  a {
-    color: var(--text-color);
-  }
-
 h1{
     text-align: center;
 }
