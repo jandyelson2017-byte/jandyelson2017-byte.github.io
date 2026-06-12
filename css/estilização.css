@@ -1,18 +1,16 @@
-/* Default (Light Mode) */
+
 :root {
     --background-color: #ffffff;
     --text-color: #000000;
     --table-border-color: #cccccc;
   }
   
-  /* Dark Mode */
   body.dark-mode {
     --background-color: #000000;
     --text-color: #ffffff;
     --table-border-color: #444444;
   }
   
-  /* Apply the variables */
   body {
     background-color: var(--background-color);
     color: var(--text-color);
